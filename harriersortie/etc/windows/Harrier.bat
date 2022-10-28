@@ -1,0 +1,1 @@
+java -cp . -Xmx512m net.harrierattack.HarrierAttack -Dsun.java2d.opengl=true
