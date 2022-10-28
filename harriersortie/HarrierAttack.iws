@@ -157,6 +157,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" value="HarrierAttack" />
     <option name="LAST_EDITED_TAB_NAME" value="Libraries (Classpath)" />
@@ -169,7 +172,7 @@
     <option name="port" value="jasper:1666" />
   </component>
   <component name="ProjectId" id="1Yz4FyE7jg1OfR84d2DKf8MXEtE" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="2" id="Remove" />
   </component>
@@ -423,7 +426,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HarrierAttack.ipr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -777,6 +780,7 @@
       <workItem from="1666442818189" duration="1519000" />
       <workItem from="1666504203439" duration="1539000" />
       <workItem from="1666521451323" duration="1124000" />
+      <workItem from="1666935371182" duration="807000" />
     </task>
     <servers />
   </component>
@@ -866,22 +870,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1128" y="589" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1666427364053" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1666446323807">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1666935458717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1666446323807" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1666446323807">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1666935458717" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1666935458717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1666446323807" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1666446323806">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1666935458717" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1666935458717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1666446323806" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1666446323807">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1666935458717" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1666935458717">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1666446323807" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1666935458717" />
     <state x="781" y="342" key="SettingsEditor" timestamp="1666427376505">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -894,10 +898,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="976" y="432" width="607" height="536" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1666443541259" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1666522695798">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1666935539345">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1666522695798" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1666935539345" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
